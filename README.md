@@ -1,2 +1,2 @@
 # cities-api
-A REST API with a list of major African cities
+A REST API built on Django Rest Framework with a list of major African cities
